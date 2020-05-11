@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MainMenu
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=MainMenu()
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=
+comment4.target=void\ createInstructionScreen()
+comment5.params=
+comment5.target=void\ createBackButtonFromInstr()
+numComments=6
